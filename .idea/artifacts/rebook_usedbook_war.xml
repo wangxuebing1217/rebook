@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rebook-usedbook:war">
+    <output-path>$PROJECT_DIR$/rebook-parent/rebook-usedbook/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rebook-usedbook</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rebook-usedbook-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rebook-usedbook:war exploded" />
+    </root>
+  </artifact>
+</component>

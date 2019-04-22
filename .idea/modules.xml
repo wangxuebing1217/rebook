@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/rebook-parent/rbook-user/rbook-user.iml" filepath="$PROJECT_DIR$/rebook-parent/rbook-user/rbook-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/rebook.iml" filepath="$PROJECT_DIR$/rebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebook-parent/rebook-common/rebook-common.iml" filepath="$PROJECT_DIR$/rebook-parent/rebook-common/rebook-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebook-parent/rebook-notice/rebook-notice.iml" filepath="$PROJECT_DIR$/rebook-parent/rebook-notice/rebook-notice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebook-parent/rebook-parent.iml" filepath="$PROJECT_DIR$/rebook-parent/rebook-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebook-parent/rebook-store/rebook-store.iml" filepath="$PROJECT_DIR$/rebook-parent/rebook-store/rebook-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebook-parent/rebook-usedbook/rebook-usedbook.iml" filepath="$PROJECT_DIR$/rebook-parent/rebook-usedbook/rebook-usedbook.iml" />
     </modules>
   </component>
 </project>

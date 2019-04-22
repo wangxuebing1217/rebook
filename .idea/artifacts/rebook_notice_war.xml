@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rebook-notice:war">
+    <output-path>$PROJECT_DIR$/rebook-parent/rebook-notice/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rebook-notice</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rebook-notice-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rebook-notice:war exploded" />
+    </root>
+  </artifact>
+</component>
